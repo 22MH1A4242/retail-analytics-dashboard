@@ -1,0 +1,26 @@
+product_id,product_name,category,sub_category,cost_price,list_price
+P0001,Laptop,Technology,Computers,717.91,966.84
+P0002,Monitor,Technology,Electronics,539.18,839.32
+P0003,Keyboard,Technology,Computers,56.98,107.87
+P0004,Mouse,Technology,Computers,23.42,46.28
+P0005,Headphones,Technology,Accessories,195.04,262.42
+P0006,Webcam,Technology,Electronics,557.65,942.04
+P0007,SSD,Technology,Electronics,391.59,561.14
+P0008,USB Hub,Technology,Computers,362.88,449.0
+P0009,Tablet,Technology,Computers,413.18,755.36
+P0010,Smartwatch,Technology,Computers,347.3,689.95
+P0011,Office Chair,Furniture,Chairs,46.57,78.52
+P0012,Standing Desk,Furniture,Chairs,408.2,494.17
+P0013,Bookshelf,Furniture,Chairs,869.24,1605.24
+P0014,Cabinet,Furniture,Chairs,19.29,26.71
+P0015,Conference Table,Furniture,Storage,616.52,1040.69
+P0016,Sofa,Furniture,Storage,160.16,242.3
+P0017,Filing Cabinet,Furniture,Tables,597.96,866.66
+P0018,Pen Set,Office Supplies,Writing,191.11,316.12
+P0019,Notebook,Office Supplies,Paper,872.78,1588.55
+P0020,Sticky Notes,Office Supplies,Writing,358.66,696.28
+P0021,Stapler,Office Supplies,Binding,830.08,1054.86
+P0022,Printer Paper,Office Supplies,Binding,471.15,927.66
+P0023,Folders,Office Supplies,Paper,352.87,500.04
+P0024,Highlighters,Office Supplies,Paper,530.14,1045.55
+P0025,Tape,Office Supplies,Paper,131.13,241.5
