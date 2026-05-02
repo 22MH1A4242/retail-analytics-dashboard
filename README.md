@@ -1,3 +1,5 @@
+live Demo: https://retail-analytics-dashboard-pqewvuj9e5jxcun3v3t9pz.streamlit.app/
+
 # 📊 Retail Business Analytics Dashboard
 
 > **Skills demonstrated:** SQL (10 business queries) · SQLite · Python · Plotly · Streamlit · Data Storytelling
