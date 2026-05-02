@@ -56,7 +56,7 @@ order_items (item_id, order_id, product_id, quantity, discount, unit_price, sale
 9. Top 10 Customers by Lifetime Value (CLV)
 10. Year-over-Year Growth Analysis (with LAG window function)
 
-## Resume Bullet Points (copy these!)
+## Resume Bullet Points 
 
 - Designed a 4-table normalised SQLite database for retail transactions (5,000+ orders, 500+ customers)
 - Wrote 10 advanced SQL queries including window functions (LAG, PARTITION BY) for YoY growth analysis
